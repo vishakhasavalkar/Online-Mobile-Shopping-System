@@ -1,0 +1,125 @@
+
+		       .mainbox{
+                display: flex;
+                margin-top: 50px;
+                float: left;
+                margin-left: 200px;
+            
+                margin-top: 10px;
+                width: 1200px;
+                height: 590px;
+                
+                }
+                
+                 .box1{
+                 width:600px;
+                 height: 500px;
+                 text-align:center;
+                 font-size:15px;
+                 margin-top: -40px;
+                 word-spacing: 5px;
+                 padding: 1px;
+                  }				
+      
+                 .box2{
+                    background-color:rgb(45, 49, 255);
+                    width:600px;
+                    margin:10px;
+                    height: 450px;
+                     font-size: 20px;                  
+                     }	
+                     
+                h1{
+                    margin-top: 30px;
+                    text-align: center;
+                    font-size: 50px;
+                    color:rgb(45, 49, 255);
+                    margin-bottom:-100px;
+
+                }
+                h2{
+                    color: white;
+                }
+
+                h4{
+                    color: white;
+                    font-size: 30px;
+                   text-align: left;
+                   margin-left: 20px;
+                }
+                h3{
+
+                 font-size: 20px;
+                 color: black
+                 text-align: left;
+                 margin-left: 0px;
+                    
+                
+                    
+                }
+              
+
+
+                .box1 input [type="text"]:focus,.box1 input[type="email"]{
+                    width: 280px;
+                       border-color:rgb(45, 49, 255);
+                   }
+                   .box1 input [type="text"]:focus,.box1 input[type="text"]{
+                    width: 280px;
+                       border-colorr:rgb(45, 49, 255);
+                   }
+
+                   .box1 input[type="text"],.box1 input[type="email"]{
+                    margin: 20px auto;
+                    text-align: center;
+                    border: 2px solid rgb(45, 49, 255);
+                    width: 280px;
+                    padding: 20px 10px;
+                   
+                    border-radius:15px;
+                  
+            }
+
+
+            .box1 input[type="submit"]
+            {
+                box-decoration-break: clone;
+                height:50;
+                color: white;
+                width: 250;
+                font-weight: bold;
+                font-size: 30px;
+                border-radius: 10px;
+                background-color:rgb(45, 49, 255);
+            }
+            .box1 input[type="submit"]:hover{
+                background-color:white;
+                color: rgb(45, 49, 255);
+            }
+            
+            .point{
+
+                font-size: 60px;
+                font-weight: 20px;
+            }
+
+            .nav{
+                text-align: right;
+                margin-top:-100px;
+                color: white;
+                padding:15px;
+                margin-right:100px;
+            }
+                .nav li{
+                display:inline-block;
+                padding:15px;
+                border: 5px solid rgb(168, 168, 250);
+                box-shadow: gray;
+                font-size:32px;   
+            }        
+            li:hover{
+            background-color:white;
+            border-radius:15px;
+            border:5px solid gray;
+            
+                  }

@@ -1,0 +1,104 @@
+.abc{
+    margin-bottom:-10px;
+   height:700px;
+   margin-top:-20px;
+ }
+ .abc2{
+     margin-top: -210px;
+     margin-bottom:10px;
+ }
+ .abc3{
+     margin-top: 500px;
+ }
+ 
+.nav{
+    text-align: right;
+    background-color:rgb(159, 161, 248);
+    list-style-type:none; 
+    margin:10px;
+ 
+    color: white;
+  
+    padding:15px;
+}
+    .nav li{
+    display:inline-block;
+    padding:15px;
+    box-shadow: gray;
+    font-size:32px;
+    color: white;
+    background-color: white;
+    
+}        
+li:hover{
+background-color:white;
+border-radius:15px;
+border:5px solid gray;
+
+      }
+
+
+
+.galllery{
+  margin:2px;
+  border:1px solid rgb(194, 200, 201);
+  float:left;
+  width:200px;
+  padding:20px;
+  margin-top:-50px;
+  
+    }
+    
+    .galllery:hover{
+        border:3px solid rgb(166, 166, 172);
+        
+    }
+    
+    galllery img{
+       width:100%;
+       height:auto;
+       float: inline-end;
+       
+    }
+    .desc{
+     padding:10px;
+     font-size:20px;
+     font-weight:bold;
+     
+
+    }			
+    .head{
+        text-align: center;
+        font-size:50px;
+        font-weight:bold;
+        color: rgb(15, 19, 224);
+        
+    }
+    .head2{
+        text-align: center;
+        font-size:50px;
+        font-weight:bold;
+        color: rgb(15, 19, 224);
+        
+    }
+    button{
+        background-color:rgb(94, 96, 243);
+   color:white;
+   padding:16px;
+   font-size:16px;
+   border:none;
+   cursor:pointer;
+   font-size: 20px;
+   float:right;
+   font-weight: bold;
+    }
+    button:hover{
+    color: rgb(94, 96, 243);
+    background-color: white;
+    border: 2px solid gray;
+    }	
+    h2{
+        margin-top: 20px;
+        font-size: 30px;
+        
+    }
